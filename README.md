@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, welcome to my github site!
+
+👷‍♂️Currently I'm working on various Data Science engagements. 
+
+
 
 <!--
 **g0580016/g0580016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
